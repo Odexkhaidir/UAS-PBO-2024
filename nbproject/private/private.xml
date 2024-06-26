@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/database/DatabaseUtil.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/database/ReportDAO.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/model/User.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/controller/ReportController.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/view/StudentFormView.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/controller/LoginController.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/view/StudentReportView.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/pattern/AdminReportStrategy.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/model/ActiveUser.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/pattern/ReportStrategy.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/model/Admin.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/view/RegisterView.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/controller/RegisterController.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/database/UserDAO.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/model/Student.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/model/Report.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/view/StudentSearchView.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/view/StudentEditView.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/view/LoginView.java</file>
+            <file>file:/D:/OneDrive/Dokumen/NetBeansProjects/Missing%20Goods%20Report%20App/src/mgr/view/StudentView.java</file>
+        </group>
+    </open-files>
+</project-private>
